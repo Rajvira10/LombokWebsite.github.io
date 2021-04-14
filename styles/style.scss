@@ -288,13 +288,13 @@ footer{
             display: flex;
             .logo{
                 h1{
-                    color:black !important;
+                    color:$primary-color !important;
                 }
             }
             .navbar{
                 li{
                     a{
-                        color:black !important;
+                        color:$primary-color !important;
                     }
                 }
                 li:last-child{
